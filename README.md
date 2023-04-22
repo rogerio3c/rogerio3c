@@ -2,4 +2,4 @@
 
 Sou Rogério Sousa.
 
-<profile em desenvovilvimento...>
+profile em desenvovilvimento...
