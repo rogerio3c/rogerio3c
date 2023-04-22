@@ -13,9 +13,9 @@ Olá, sou Rogério Sousa.
 - Marketing Digital e Vendas;
 
 
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+<div>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</div>          
 
 
 # Meus contatos
