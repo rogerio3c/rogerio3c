@@ -1,5 +1,9 @@
 # Bem-vindo!
 
-Sou Rogério Sousa.
+Olá, sou Rogério Sousa.
 
-profile em desenvovilvimento...
+#Meus hobbies
+
+#Atualmente estudando
+
+#Meus contatos
