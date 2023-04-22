@@ -13,5 +13,5 @@ Olá, sou Rogério Sousa.
 - Marketing Digital e Vendas;
 
 # Meus contatos
-Linkedin
+Linkedin <br>
 https://www.linkedin.com/in/rog%C3%A9rio-sousa-82902244/
