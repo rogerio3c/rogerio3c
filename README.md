@@ -15,7 +15,6 @@ Olá, sou Rogério Sousa.
 
 # Meus contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rogerio3c)](https://github.com/rogerio3c)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-sousa-82902244/)](https://www.linkedin.com/in/rog%C3%A9rio-sousa-82902244/)
 
 # EM DESENVOLVIMENTO...
