@@ -8,7 +8,7 @@ Olá, sou Rogério Sousa.
 
 # Atualmente estudando
 - Inteligência comportamental com foco em ser minha melhor versão;
-- Desenvolvimento de App(aplicações): Python + Django;
+- Desenvolvimento de App(aplicações): Python + Django + Streamlit;
 - Controladoria: Finanças, contabilidade, econômia, planejamento orçamentário, gestão empresarial;
 - Marketing Digital e Vendas;
 
