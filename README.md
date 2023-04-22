@@ -18,5 +18,7 @@ Olá, sou Rogério Sousa.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-sousa-82902244/)](https://www.linkedin.com/in/rog%C3%A9rio-sousa-82902244/)
 
 <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+
 
 
