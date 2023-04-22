@@ -12,6 +12,10 @@ Olá, sou Rogério Sousa.
 - Controladoria: Finanças, contabilidade, econômia, planejamento orçamentário, gestão empresarial;
 - Marketing Digital e Vendas;
 
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
+
 # Meus contatos
-Linkedin <br>
-https://www.linkedin.com/in/rog%C3%A9rio-sousa-82902244/
