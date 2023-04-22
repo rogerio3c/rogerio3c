@@ -13,11 +13,7 @@ Olá, sou Rogério Sousa.
 - Marketing Digital e Vendas;
 
 
-<div style="display: inline_block"><br>
-            
-            <i class="devicon-python-plain colored"></i>
-            
-</div>              
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)         
 
 
 # Meus contatos
