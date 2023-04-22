@@ -6,6 +6,7 @@ Olá, sou Rogério Sousa.
 - Ler
 - Jogar vídeo game
 - Ler e Ouvir a Bíblia Sagrada
+- Retomando o hobbie de Programação
 
 # Atualmente estudando
 - Inteligência comportamental com foco em ser minha melhor versão;
