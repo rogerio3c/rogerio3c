@@ -3,8 +3,8 @@
 Olá, sou Rogério Sousa.
 
 # Meus hobbies
+- Ler
 - Jogar vídeo game
--  
 
 # Atualmente estudando
 - Inteligência comportamental com foco em ser minha melhor versão;
