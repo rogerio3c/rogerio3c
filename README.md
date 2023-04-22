@@ -2,8 +2,8 @@
 
 Olá, sou Rogério Sousa.
 
-#Meus hobbies
+# Meus hobbies
 
-#Atualmente estudando
+# Atualmente estudando
 
-#Meus contatos
+# Meus contatos
